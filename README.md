@@ -126,7 +126,7 @@ Me chamo [Alan Fontenele Véras](https://www.linkedin.com/in/alan-f-a118a4125/),
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180em" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=verasalan&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -134,7 +134,7 @@ Me chamo [Alan Fontenele Véras](https://www.linkedin.com/in/alan-f-a118a4125/),
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=verasalan&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
