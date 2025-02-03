@@ -5,7 +5,7 @@
 Me chamo [Alan Fontenele Véras](https://www.linkedin.com/in/alan-f-a118a4125/), tenho 23 anos e sou estudante de Ciência da Computação na UnB. Sou apaixonado por programação e tecnologia, com experiência em diversas linguagens, como Python, C++, Java, JavaScript e SQL. Busco me aprofundar cada vez mais na área, desenvolvendo projetos completos e desafiadores. Além da programação, tenho grande interesse em ensino, robótica e educação. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e crescer profissionalmente.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/alan-f-a118a4125/">
+    <a href="https://www.linkedin.com/in/alan-f-a118a4125/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Me siga no LinkedIn" 
@@ -19,7 +19,7 @@ Me chamo [Alan Fontenele Véras](https://www.linkedin.com/in/alan-f-a118a4125/),
             src="https://custom-icon-badges.demolab.com/badge/Contato-E05D44?logo=email&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://github.com/verasalan?tab=followers">
+    <a href="https://github.com/verasalan?tab=followers" target="_blank">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
