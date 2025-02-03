@@ -86,6 +86,14 @@ Me chamo [Alan Fontenele Véras](https://www.linkedin.com/in/alan-f-a118a4125/),
 />
 <img 
     align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"> " 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
