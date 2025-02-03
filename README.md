@@ -140,4 +140,3 @@ Me chamo [Alan Fontenele Véras](https://www.linkedin.com/in/alan-f-a118a4125/),
 
 </p>
 
-![Snake animation](verasalan)
