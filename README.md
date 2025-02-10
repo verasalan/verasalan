@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Alan Véras
+# 🧑🏻‍💻 Alan Véras ![](https://komarev.com/ghpvc/?username=verasalan&color=000000)
 
 **`Desenvolvedor FullStack`**
 
@@ -25,6 +25,7 @@ Me chamo [Alan Fontenele Véras](https://www.linkedin.com/in/alan-f-a118a4125/),
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/verasalan?color=000003&labelColor=000003ba&style=for-the-badge&logo=github&label=verasalan&logoColor=white"
         />
+    </a>
 </p>
 
 ---
@@ -146,4 +147,4 @@ Me chamo [Alan Fontenele Véras](https://www.linkedin.com/in/alan-f-a118a4125/),
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/verasalan/verasalan/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](https://komarev.com/ghpvc/?username=verasalan&color=000000)
+
