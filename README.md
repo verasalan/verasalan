@@ -145,3 +145,5 @@ Me chamo [Alan Fontenele Véras](https://www.linkedin.com/in/alan-f-a118a4125/),
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/verasalan/verasalan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/verasalan/verasalan/output/github-contribution-grid-snake.svg">
 </picture>
+
+![](https://komarev.com/ghpvc/?username=verasalan&color=000000)
